@@ -6,8 +6,8 @@ hero:
   text: "Where Creativity Meets Paper"
   tagline: Card Designer · AI Storyteller · Inspiration Archive
   image:
-    light: /paper_light_en.png
-    dark: /paper_dark_en.png
+    light: /logo.png
+    dark: /logo.png
     alt: PaperTale
 
 features:
